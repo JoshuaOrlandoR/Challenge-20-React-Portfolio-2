@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Challenge-20-React-Portfolio/static/css/main.5e826822.css",
-    "main.js": "/Challenge-20-React-Portfolio/static/js/main.ebee1645.js",
-    "static/js/787.6b5d4c6a.chunk.js": "/Challenge-20-React-Portfolio/static/js/787.6b5d4c6a.chunk.js",
-    "static/media/resume_placeholder.png": "/Challenge-20-React-Portfolio/static/media/resume_placeholder.d188e833725e3879fea2.png",
-    "index.html": "/Challenge-20-React-Portfolio/index.html",
-    "main.5e826822.css.map": "/Challenge-20-React-Portfolio/static/css/main.5e826822.css.map",
-    "main.ebee1645.js.map": "/Challenge-20-React-Portfolio/static/js/main.ebee1645.js.map",
-    "787.6b5d4c6a.chunk.js.map": "/Challenge-20-React-Portfolio/static/js/787.6b5d4c6a.chunk.js.map"
+    "main.css": "/Challenge-20-React-Portfolio-2/static/css/main.5e826822.css",
+    "main.js": "/Challenge-20-React-Portfolio-2/static/js/main.8bbf3619.js",
+    "static/js/787.6b5d4c6a.chunk.js": "/Challenge-20-React-Portfolio-2/static/js/787.6b5d4c6a.chunk.js",
+    "static/media/resume_placeholder.png": "/Challenge-20-React-Portfolio-2/static/media/resume_placeholder.d188e833725e3879fea2.png",
+    "index.html": "/Challenge-20-React-Portfolio-2/index.html",
+    "main.5e826822.css.map": "/Challenge-20-React-Portfolio-2/static/css/main.5e826822.css.map",
+    "main.8bbf3619.js.map": "/Challenge-20-React-Portfolio-2/static/js/main.8bbf3619.js.map",
+    "787.6b5d4c6a.chunk.js.map": "/Challenge-20-React-Portfolio-2/static/js/787.6b5d4c6a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5e826822.css",
-    "static/js/main.ebee1645.js"
+    "static/js/main.8bbf3619.js"
   ]
 }
