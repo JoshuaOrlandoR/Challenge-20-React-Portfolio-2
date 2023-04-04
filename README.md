@@ -21,7 +21,7 @@
   ## Installation
   Users do not need to install this application, however, they can, if they want, run this page locally. To do so, download the repository and open it in a coding enviornment like VS code. In a terminal, run npm i and npm start, to install dependencies, and launch the page locally. Otherwise, just view the live app with the github pages link!
   <br>
-  Link to live site - https://joshuaorlandor.github.io/Challenge-20-React-Portfolio/
+  Link to live site - 
 
   ## Useage
   Users need only to use the link to view the application. 
